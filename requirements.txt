@@ -1,5 +1,4 @@
 fastapi==0.115.8
-fastapi-middleware-cors
 transformers==4.49.0
 Pillow==11.1.0
 torch
